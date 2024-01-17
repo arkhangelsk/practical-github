@@ -1,1 +1,2 @@
-# practical-github
+# Create GitHub Issue Template
+1. 
