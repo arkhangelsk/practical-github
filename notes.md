@@ -32,9 +32,3 @@ Note: The `*` means global access i.e. owner of all files.
 2. Scroll down until you see `Merge button` section.
 3. Select `Automatically delete head branches`.
 4. Now after the merge your PR, the branch will be automatically deleted.
-
-# How to automatically Squash Commits on GitHub when Merging Pull Requests
-1. Go to your repo's settings on GitHub
-2. Scroll down until you see `Merge button` section.
-3. Select `Allow squash merging` and remove the check mark from `Allow merge commits`. Now on the PR you'll see that `squash and merge` button is there by default. Now if you click on it, it will automatically squash the commits while merging pull request.
-
