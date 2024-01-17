@@ -7,3 +7,4 @@ Learning Practical GitHub such as:
 
 See [notes.md](https://github.com/arkhangelsk/practical-github/blob/main/notes.md) for more details
 
+
